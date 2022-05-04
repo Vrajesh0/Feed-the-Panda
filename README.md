@@ -1,1 +1,1 @@
-# Feed-the-Panda
+# Tablet-SPCK-PRO-C35-Project-Solution
